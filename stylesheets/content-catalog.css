@@ -1,0 +1,33 @@
+/* HEADER */
+
+.holodos-icon {
+    width: 103.7px;
+    position: relative;
+    height: 32.7px;
+}
+.element {
+    position: relative;
+    letter-spacing: -0.03em;
+    cursor: pointer;
+}
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 65px;
+}
+.holodos-parent {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 695px;
+    text-align: left;
+    font-size: 18px;
+    color: #fafafa;
+    font-family: 'SF Pro Text';
+}
+
